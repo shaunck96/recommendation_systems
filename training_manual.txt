@@ -1,0 +1,52 @@
+Recommendation Systems Training Manual
+Table of Contents
+Introduction to Recommender Systems
+
+Definition and Importance
+Historical Context: Netflix Prize
+Paradigms: Collaborative vs. Content-Based
+Collaborative Filtering Methods
+
+Overview and Key Concepts
+User-Item Interactions Matrix
+Flowchart: Process of Collaborative Filtering
+Subcategories:
+Memory-Based Approaches
+User-User
+Item-Item
+Model-Based Approaches
+Matrix Factorization
+Content-Based Methods
+
+Overview and Key Concepts
+Difference Between Collaborative and Content-Based Methods
+Approaches:
+Item-Centred
+User-Centred
+Practical Applications and Examples
+Advanced Topics
+
+Matrix Factorization Details
+Mathematics and Gradient Descent
+Figure: Matrix Decomposition Illustration
+Extensions and Neural Approaches
+Hybrid Systems
+Combining Collaborative and Content-Based Models
+Evaluating Recommender Systems
+
+Metrics Based Evaluation
+Error Measurement: MSE
+Classification Metrics: Accuracy, Precision, Recall
+Human-Based Evaluation
+Serendipity, Diversity, and Explainability
+Real Conditions Evaluation
+A/B Testing
+Practical Implementation Tips
+
+Handling Cold Start Problems
+Scalability and Performance Optimization
+Flowchart: Decision Process for Choosing the Right Model
+Case Studies and Real-World Examples
+
+Detailed analysis and breakdown of successful recommender systems in various industries.
+Conclusion and Further Reading
