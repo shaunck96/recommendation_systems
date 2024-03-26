@@ -1,4 +1,4 @@
-Recommendation Systems Training Manual
+**Recommendation Systems Training Manual**
 Table of Contents
 Introduction to Recommender Systems
 
